@@ -1,0 +1,7 @@
+Camera Standoff lower.stl	Lower Standoffs for Camera.  Slightly longer than Upper ones. Designed for 2.5mm brass inserts
+Flat Case Bottom.stl  Bottom half of the case
+Flat Case Top.stl	Top half of the case
+Standoff Camera Upper.stl	Upper Standoffs for Camera. Slightly shorter than lower due to case overhang. Designed for 2.5mm brass inserts
+Standoff spacer Large.stl	Used on shorter standoff in case when no accellerometer is installed.
+Standoff spacer.stl	Used between bottom of Pi board and accellerometer board.
+Telrad plate.stl
