@@ -4,7 +4,7 @@
 
 Project to share eFinder STL files for the eFinder project https://github.com/AstroKeith/eFinder_Lite
 
-Included are the STL files, and the FreeCAD files for easier editing.
+Included are the STL files, and the FreeCAD files for easier editing.  The flat case design has been totally reworked to get around Topological naming problem.  In addition the camera is fully mounted to the bottom of the case to provide a sturdier mounting
 For the top Telrad base, I used https://www.thingiverse.com/thing:2989554
 
 The case was designed to use threaded inserts. 4mm for the Telrad bases, 3mm for case screws, and all others are 2.5mm.  In addition the USB panel mount used with the case is https://www.amazon.com/dp/B08RSGYV1S?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
